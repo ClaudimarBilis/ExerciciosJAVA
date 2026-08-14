@@ -1,5 +1,5 @@
 //Peça um número de 1 a 7 e mostre o dia correspondente.
-
+//teste
 package simpleExercises.Switch;
 import java.util.Scanner;
 
