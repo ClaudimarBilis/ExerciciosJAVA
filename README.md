@@ -4,6 +4,8 @@ Repositório dedicado ao estudo e à prática de programação em Java.
 
 Este projeto reúne exercícios desenvolvidos durante minha jornada de aprendizado, com foco na construção de uma base sólida em lógica de programação, sintaxe Java e resolução de problemas.
 
+Não é apenas uma coleção de exercícios, é um registro público da minha evolução como desenvolvedor Java.
+
 ## Objetivo
 
 O objetivo deste repositório é registrar minha evolução no aprendizado de Java por meio da prática constante e da resolução progressiva de exercícios.
