@@ -1,15 +1,17 @@
 package Fundamentos.Conclusao_Fundamentos;
 import java.util.Scanner;
+import java.util.Random;
 
 public class JogoDeAdivinhacaoCompleto {
     public static void main(String[]args){
         Scanner teclado = new Scanner(System.in);
 
         boolean loop1 = true;
-        int numeroSecreto = 576;
 
         while(loop1){
 
+        int numeroSecreto = new Random().nextInt(1, 1001);
+            
           int tentativas = 1;
 
           System.out.println("Digite seu palpite: ");
