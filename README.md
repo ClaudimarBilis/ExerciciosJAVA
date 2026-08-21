@@ -16,7 +16,7 @@ Além de servir como material de estudo e consulta, o repositório também funci
 
 Os exercícios são organizados progressivamente de acordo com os conceitos estudados.
 
-### Nível 1 — Variáveis e entrada de dados
+### Fundamentos — Variáveis e entrada de dados
 
 - Declaração e utilização de variáveis
 - Tipos primitivos
@@ -25,7 +25,7 @@ Os exercícios são organizados progressivamente de acordo com os conceitos estu
 - Entrada de dados pelo console
 - Operações matemáticas básicas
 
-### Nível 2 — Estruturas condicionais
+### Fundamentos — Estruturas condicionais
 
 - if
 - else
@@ -37,7 +37,7 @@ Os exercícios são organizados progressivamente de acordo com os conceitos estu
 - ||
 - %
 
-### Nível 3 — Estrutura `switch`
+### Fundamentos — Estrutura `switch`
 
 - switch
 - case
@@ -46,7 +46,7 @@ Os exercícios são organizados progressivamente de acordo com os conceitos estu
 - break
 - Tomada de decisão baseada em múltiplas opções
 
-### Nível 4 — Estruturas de repetição
+### Fundamentos — Estruturas de repetição
 
 - for
 - while
@@ -56,11 +56,9 @@ Os exercícios são organizados progressivamente de acordo com os conceitos estu
 - Repetição controlada por condições
 - Processamento de múltiplos valores
 
-### Nível 5 — Problemas práticos
+### Fundamentos — Problemas práticos
 
 Exercícios voltados à aplicação dos conceitos estudados em situações mais próximas de problemas reais de programação.
-
-# Java Practical Programs
 
 ## Projetos
 
@@ -155,22 +153,6 @@ Funcionalidades planejadas:
 * GitHub
 
 Novas tecnologias serão incorporadas conforme o nível de complexidade dos projetos aumentar.
-
-## Estrutura
-
-A estrutura inicial do repositório será organizada por projetos:
-
-```text
-Practical_Programs/
-│
-├── CaixaEletronico/
-├── SistemaDeEstoque/
-├── SistemaDeLogin/
-├── CaixaDeSupermercado/
-└── JogoDeAdivinhacaoCompleto/
-```
-
-A organização poderá evoluir conforme os projetos passarem a utilizar novas tecnologias e arquiteturas.
 
 ## Metodologia
 
