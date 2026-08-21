@@ -60,14 +60,4 @@ Os exercícios são organizados progressivamente de acordo com os conceitos estu
 
 Exercícios voltados à aplicação dos conceitos estudados em situações mais próximas de problemas reais de programação.
 
-## Organização
-
-Os exercícios estão separados por assunto:
-
-```text
-src/
-└── simpleExercises/
-    ├── Variaveis_e_Scanner/
-    ├── If_Else/
-    ├── Switch/
-    └── Lacos/
+---
