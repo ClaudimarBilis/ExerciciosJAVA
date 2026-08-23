@@ -4,7 +4,7 @@
 //Converter para Fahrenheit.
 //Retornar o resultado.
 
-package Metodos;
+package Metodos.Fundamentos;
 
 public class ConversorTemperatura {
     public static void main(String[] args) {

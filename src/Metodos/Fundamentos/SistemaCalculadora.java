@@ -4,7 +4,7 @@
 //Use return.
 //Formate a divisão com %.2f.
 
-package Metodos;
+package Metodos.Fundamentos;
 
 public class SistemaCalculadora {
     public static void main(String[] args) {

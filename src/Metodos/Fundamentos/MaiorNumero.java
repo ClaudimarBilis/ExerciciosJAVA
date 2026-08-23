@@ -4,7 +4,7 @@
 //Comparar os dois números.
 //Retornar o maior número.
 
-package Metodos;
+package Metodos.Fundamentos;
 
 public class MaiorNumero {
     public static void main(String[] args) {

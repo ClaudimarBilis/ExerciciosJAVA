@@ -5,7 +5,7 @@
 //Retornar true se for positivo.
 //Retornar false caso contrário.
 
-package Metodos;
+package Metodos.Fundamentos;
 
 public class VerificarPositivo {
     public static void main(String[] args) {

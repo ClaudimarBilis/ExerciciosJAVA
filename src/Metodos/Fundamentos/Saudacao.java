@@ -1,4 +1,4 @@
-package Metodos;
+package Metodos.Fundamentos;
 
 public class Saudacao {
     public static void main(String[]args) {

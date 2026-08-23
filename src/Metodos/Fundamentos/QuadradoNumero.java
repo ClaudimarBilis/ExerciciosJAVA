@@ -4,7 +4,7 @@
 //Calcular o quadrado desse número.
 //Retornar o resultado.
 
-package Metodos;
+package Metodos.Fundamentos;
 
 public class QuadradoNumero {
     public static void main(String[] args) {

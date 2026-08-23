@@ -5,7 +5,7 @@
 //Dividir a soma por 3.
 //Retornar a média.
 
-package Metodos;
+package Metodos.Fundamentos;
 
 public class CalcularMedia {
     public static void main(String[] args) {

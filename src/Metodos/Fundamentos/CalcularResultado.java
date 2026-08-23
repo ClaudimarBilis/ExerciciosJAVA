@@ -5,7 +5,7 @@
 //Chamar o metodo dobrar() passando o resultado da soma.
 //Retornar o resultado final.
 
-package Metodos;
+package Metodos.Fundamentos;
 
 public class CalcularResultado {
     public static void main(String[] args) {

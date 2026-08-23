@@ -5,7 +5,7 @@
 //Retornar true se for par.
 //Retornar false se for ímpar.
 
-package Metodos;
+package Metodos.Fundamentos;
 
 public class VerificarPar {
     public static void main(String[] args) {

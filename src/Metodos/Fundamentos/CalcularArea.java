@@ -5,7 +5,7 @@
 //Calcular a área.
 //Retornar o resultado.
 
-package Metodos;
+package Metodos.Fundamentos;
 
 public class CalcularArea {
     public static void main(String[] args) {

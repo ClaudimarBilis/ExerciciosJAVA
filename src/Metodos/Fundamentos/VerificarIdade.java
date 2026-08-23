@@ -5,7 +5,7 @@
 //Retornar true se puder votar.
 //Retornar false caso contrário.
 
-package Metodos;
+package Metodos.Fundamentos;
 
 public class VerificarIdade {
     public static void main(String[] args) {

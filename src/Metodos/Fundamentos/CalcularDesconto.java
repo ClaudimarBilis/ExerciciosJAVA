@@ -6,7 +6,7 @@
 //Subtrair o desconto do preço.
 //Retornar o preço final.
 
-package Metodos;
+package Metodos.Fundamentos;
 
 public class CalcularDesconto {
     public static void main(String[] args) {
