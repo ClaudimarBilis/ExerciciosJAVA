@@ -1,13 +1,13 @@
 package Metodos;
 
 public class RetornoDeValor {
-    public static void main(String[]args) {
-         dobrar(5);
-        System.out.println();
+    public static void main (String[]args){
+        int resultado = dobrar(45);
+        System.out.println(resultado);
     }
 
-    static void dobrar(int numero) {
-        int soma = numero * 2;
-        int resultado = soma;
+    static int dobrar(int numero){
+        int dobrarValor = numero * 2;
+        return dobrarValor;
     }
 }
