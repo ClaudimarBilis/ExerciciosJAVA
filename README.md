@@ -233,7 +233,7 @@ Este repositório será atualizado continuamente conforme novos programas forem 
 
 ## Autor
 
-**Claudimar**
+**Claudimar Bilis**
 
 Estudante e desenvolvedor em formação, com foco em Java, lógica de programação, desenvolvimento de software e construção de aplicações práticas.
 
