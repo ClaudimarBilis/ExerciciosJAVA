@@ -20,4 +20,15 @@ public class Aluno {
             return "Reprovado";
         }
     }
+
+    void relatorio(){
+        System.out.println("===== ALUNO =====");
+        System.out.println("Nome: " + nome);
+        System.out.printf("Nota 1: %.2f%n", nota1);
+        System.out.printf("Nota 2: %.2f%n", nota2);
+        System.out.printf("Nota 3: %.2f%n", nota3);
+        System.out.printf("Média: %.2f%n", calcularMedia());
+        System.out.println("Situação: " + verificarSituacao(calcularMedia()));
+        System.out.println();
+    }
 }
